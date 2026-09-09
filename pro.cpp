@@ -18,7 +18,7 @@ void sumEven(){
 odd= odd+numbers;
         }
     }
-    cout<<"The sum of only even number is: "<< even<<endl;
+    cout<<"The sum of only even number is: "<< even<< endl;
     cout<<"The sum of only odd number is: "<< odd;
 
 
